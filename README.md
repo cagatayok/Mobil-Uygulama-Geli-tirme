@@ -24,6 +24,8 @@ Uygulama Ekran Görüntüleri
 
 
 ![Ana Sayfa](mg1.png)
+
+
 2. Ürün Detay Sayfası
 
 
@@ -33,6 +35,17 @@ Uygulama Ekran Görüntüleri
 
 
 
+
 ![Ürün Detayı](mg4.png)
+
+
 3. Sepet Sayfası (Cart)
+
+
+
+
+
+
+
+
 ![Sepet](mg2.png)
