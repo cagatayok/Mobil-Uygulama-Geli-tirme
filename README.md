@@ -19,8 +19,20 @@ Bash
 flutter run -d chrome --web-browser-flag "--disable-web-security"
 Uygulama Ekran Görüntüleri
 1. Ana Sayfa (Discover)
+
+
+
+
 ![Ana Sayfa](mg1.png)
 2. Ürün Detay Sayfası
+
+
+
+
+
+
+
+
 ![Ürün Detayı](mg4.png)
 3. Sepet Sayfası (Cart)
 ![Sepet](mg2.png)
